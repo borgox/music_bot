@@ -32,7 +32,7 @@ class Bot(commands.InteractionBot):
             password="youshallnotpass",
         )
         print("Connected.")
-        print("READY!!!!!!!")
+
         self.ready_ran = True
 
 
